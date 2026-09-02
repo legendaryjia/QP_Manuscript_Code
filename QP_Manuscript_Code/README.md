@@ -28,6 +28,6 @@ python verify_snippets.py
 
 `verify_snippets.py` performs syntax and method-constant checks without requiring the experimental data or loading pretrained weights.
 
-## Data-availability wording
+## Data-availability
 
 `DATA_AVAILABILITY_STATEMENT.md` contains wording that accurately states that the data are not publicly deposited. The final statement should be approved by all authors and the journal before submission.
