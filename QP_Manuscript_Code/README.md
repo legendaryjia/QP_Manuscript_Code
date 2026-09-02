@@ -17,10 +17,6 @@ This package contains concise code excerpts corresponding to the Methods describ
 
 The constants used throughout the excerpts are centralized in `core/config.py`.
 
-## Representative SEM images
-
-`representative_sem_images/` contains one selected image for each initial route (HR-AC, HR-CC, HR-CT, and HR-QC) plus a four-panel montage. The image pixels were copied from the existing research files without generative alteration, synthetic texture, denoising, or contrast manipulation during packaging. See `representative_sem_images/IMAGE_NOTES.md` for panel mapping, hashes, and permitted interpretation.
-
 ## Environment
 
 Python 3.10 or later is recommended.
