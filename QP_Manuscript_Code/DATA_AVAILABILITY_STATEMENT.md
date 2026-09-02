@@ -1,0 +1,5 @@
+# Proposed Data Availability Statement
+
+The experimental measurements, sample-level labels, and complete original SEM image dataset are not publicly deposited because they contain research data considered proprietary by the authors' institution. Four representative initial-state SEM images are supplied for visual illustration only and do not constitute the model-development dataset. Core computational-method excerpts sufficient to describe the preprocessing, model architecture, training strategy, evaluation, ablation, interpretation, and process-screening procedures are provided with the submission. Requests for access to the underlying data may be directed to the corresponding author and will be considered subject to institutional approval, confidentiality requirements, and an appropriate data-use agreement.
+
+This wording must be reviewed against the journal's editorial requirements. It does not claim that the supplied code excerpts can reproduce the reported numerical results without the withheld data and trained weights.
